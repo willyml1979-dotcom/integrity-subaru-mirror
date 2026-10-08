@@ -1,6 +1,6 @@
 {
   "dealership": "Integrity Subaru",
-  "generated_at": "2026-09-26T10:26:11",
+  "generated_at": "2026-10-08T14:38:12",
   "vehicle_count": 46,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "JM1BL1S53A1138609",
       "stock": "4514-1",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/6c597417ea4c.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2010/mazda/mazda3-sedan/trail/bc/71192459/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2010/mazda/mazda3-sedan/trail/bc/71192459/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,14 +20,17 @@
       "odometer_km": 140811,
       "year": 2010,
       "make": "Mazda",
-      "model": "Mazda3 Sedan GT",
-      "condition": "used"
+      "model": "Mazda3",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2014 Toyota RAV4 LE",
       "vin": "2T3BFREV3EW183980",
       "stock": "4485-1",
       "color": "White",
+      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/6dd07cddb2d8.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2014/toyota/rav4/trail/bc/70923052/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2014/toyota/rav4/trail/bc/70923052/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +40,17 @@
       "odometer_km": 195183,
       "year": 2014,
       "make": "Toyota",
-      "model": "RAV4 LE",
-      "condition": "used"
+      "model": "RAV4",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Traverse LS",
       "vin": "1GNKVFED2HJ249910",
       "stock": "4443-1",
       "color": "Grey",
+      "trim": "LS",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/275fddc7cec9.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2017/chevrolet/traverse/trail/bc/69992077/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2017/chevrolet/traverse/trail/bc/69992077/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +60,17 @@
       "odometer_km": 137248,
       "year": 2017,
       "make": "Chevrolet",
-      "model": "Traverse LS",
-      "condition": "used"
+      "model": "Traverse",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport 2.4 SE",
       "vin": "5XYZUDLB1HG462301",
       "stock": "4501-1",
       "color": "Red",
+      "trim": "Sport 2.4 SE",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/da3f44539751.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2017/hyundai/santa-fe-sport/trail/bc/71147372/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2017/hyundai/santa-fe-sport/trail/bc/71147372/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +80,17 @@
       "odometer_km": 119487,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport 2.4 SE",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Wrangler JK Unlimited Unlimited Sahara",
       "vin": "1C4BJWEG1JL824619",
       "stock": "4499-1",
       "color": "Grey",
+      "trim": "JK Unlimited Unlimited Sahara",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/88ea5e559182.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2018/jeep/wrangler-jk-unlimited/trail/bc/71147371/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2018/jeep/wrangler-jk-unlimited/trail/bc/71147371/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +100,17 @@
       "odometer_km": 138099,
       "year": 2018,
       "make": "Jeep",
-      "model": "Wrangler JK Unlimited Unlimited Sahara",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Wrangler JK Unlimited Unlimited Rubicon",
       "vin": "1C4HJWFG6JL915796",
       "stock": "3311-1",
       "color": "Grey",
+      "trim": "JK Unlimited Unlimited Rubicon",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/74331a1624d6.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2018/jeep/wrangler-jk-unlimited/trail/bc/71260353/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2018/jeep/wrangler-jk-unlimited/trail/bc/71260353/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,14 +120,17 @@
       "odometer_km": 76667,
       "year": 2018,
       "make": "Jeep",
-      "model": "Wrangler JK Unlimited Unlimited Rubicon",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Santa Fe Luxury",
       "vin": "5NMS3CAA1KH050031",
       "stock": "4416-1",
       "color": "Green",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/01fc9408d7a4.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2019/hyundai/santa-fe/trail/bc/70317836/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2019/hyundai/santa-fe/trail/bc/70317836/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -121,14 +140,17 @@
       "odometer_km": 131344,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Santa Fe Luxury",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Crosstrek Sport",
       "vin": "JF2GTAFC0K8225604",
       "stock": "4496-1",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/eca2dca712b0.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2019/subaru/crosstrek/trail/bc/71192462/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2019/subaru/crosstrek/trail/bc/71192462/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,13 +160,16 @@
       "odometer_km": 109762,
       "year": 2019,
       "make": "Subaru",
-      "model": "Crosstrek Sport",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Legacy Sedan 3.6R",
       "vin": "4S3BNFN66K3021270",
       "color": "Black",
+      "trim": "3.6R",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/46663dbd12ac.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2019/subaru/legacy-sedan/trail/bc/71260352/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2019/subaru/legacy-sedan/trail/bc/71260352/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -154,8 +179,10 @@
       "odometer_km": 169842,
       "year": 2019,
       "make": "Subaru",
-      "model": "Legacy Sedan 3.6R",
-      "condition": "used"
+      "model": "Legacy",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford E-450 Super Duty ",
@@ -171,12 +198,15 @@
       "year": 2022,
       "make": "Ford",
       "model": "E-450 Super Duty",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Explorer XLT",
       "vin": "1FMSK8DH9NGA04429",
       "color": "Silver",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/767d1fad9c8d.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2022/ford/explorer/trail/bc/69681626/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2022/ford/explorer/trail/bc/69681626/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -186,14 +216,17 @@
       "odometer_km": 42875,
       "year": 2022,
       "make": "Ford",
-      "model": "Explorer XLT",
-      "condition": "used"
+      "model": "Explorer",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage Plug-in Hybrid EX-Premium Plug-In Hybrid",
       "vin": "KNDPVDAH9P7078838",
       "stock": "4324-1",
       "color": "White",
+      "trim": "EX-Premium Plug-In Hybrid",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/3005ce10b917.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2023/kia/sportage-plug-in-hybrid/trail/bc/67036629/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2023/kia/sportage-plug-in-hybrid/trail/bc/67036629/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -203,14 +236,17 @@
       "odometer_km": 14362,
       "year": 2023,
       "make": "Kia",
-      "model": "Sportage Plug-in Hybrid EX-Premium Plug-In Hybrid",
-      "condition": "used"
+      "model": "Sportage Plug-In Hybrid",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru Solterra Technology",
       "vin": "JTMABABAXPA018245",
       "stock": "4477-1",
       "color": "Red",
+      "trim": "Technology",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/60cd23fbe160.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2023/subaru/solterra/trail/bc/71217632/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2023/subaru/solterra/trail/bc/71217632/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -220,14 +256,17 @@
       "odometer_km": 54863,
       "year": 2023,
       "make": "Subaru",
-      "model": "Solterra Technology",
-      "condition": "used"
+      "model": "Solterra",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Taos Trendline",
       "vin": "3VVGX7B24PM359653",
       "stock": "4502-1",
       "color": "Silver",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/ca8eb4989999.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2023/volkswagen/taos/trail/bc/71136599/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2023/volkswagen/taos/trail/bc/71136599/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -237,14 +276,17 @@
       "odometer_km": 43424,
       "year": 2023,
       "make": "Volkswagen",
-      "model": "Taos Trendline",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Onyx",
       "vin": "JF2GUHFC7RH204247",
       "stock": "4457-1",
       "color": "Blue",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/4d89113d03a9.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2024/subaru/crosstrek/trail/bc/70332005/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2024/subaru/crosstrek/trail/bc/70332005/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -254,13 +296,16 @@
       "odometer_km": 111110,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Limited",
       "vin": "JF2GUHNC4RH269977",
       "color": "Blue",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/a53aa43ab1f2.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2024/subaru/crosstrek/trail/bc/70552544/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2024/subaru/crosstrek/trail/bc/70552544/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -270,14 +315,17 @@
       "odometer_km": 44126,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek Limited",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback Premier",
       "vin": "4S4BTHPD8R3193349",
       "stock": "4463-1",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/14dfaf68cb14.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2024/subaru/outback/trail/bc/70669222/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2024/subaru/outback/trail/bc/70669222/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -287,14 +335,17 @@
       "odometer_km": 114989,
       "year": 2024,
       "make": "Subaru",
-      "model": "Outback Premier",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback Wilderness",
       "vin": "4S4BTHTD3R3284907",
       "stock": "4495-2",
       "color": "Grey",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/4fa8de7adab3.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2024/subaru/outback/trail/bc/71154054/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2024/subaru/outback/trail/bc/71154054/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -304,14 +355,17 @@
       "odometer_km": 60139,
       "year": 2024,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester Sport",
       "vin": "JF2SLDHC1SH477760",
       "stock": "4384-1",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/eebad8f54d26.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2025/subaru/forester/trail/bc/71192463/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2025/subaru/forester/trail/bc/71192463/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -321,13 +375,16 @@
       "odometer_km": 50851,
       "year": 2025,
       "make": "Subaru",
-      "model": "Forester Sport",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Outback Premier",
       "vin": "4S4BTHPD1S3210322",
       "color": "Black",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/78d817ce4341.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2025/subaru/outback/trail/bc/70498956/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2025/subaru/outback/trail/bc/70498956/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -337,13 +394,16 @@
       "odometer_km": 14799,
       "year": 2025,
       "make": "Subaru",
-      "model": "Outback Premier",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru WRX tS",
       "vin": "JF1VBAZ69S9800393",
       "color": "Violet",
+      "trim": "tS",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/49714fe1cf00.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2025/subaru/wrx/trail/bc/70239083/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2025/subaru/wrx/trail/bc/70239083/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -353,14 +413,17 @@
       "odometer_km": 16820,
       "year": 2025,
       "make": "Subaru",
-      "model": "WRX tS",
-      "condition": "used"
+      "model": "WRX",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Impreza TOURING",
       "vin": "JF1GUAFC7S8289124",
       "stock": "4335",
       "color": "Blue",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/c562ccab1a95.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2025/subaru/impreza/trail/bc/66954544/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2025/subaru/impreza/trail/bc/66954544/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -370,13 +433,16 @@
       "odometer_km": 11,
       "year": 2025,
       "make": "Subaru",
-      "model": "Impreza TOURING",
-      "condition": "new"
+      "model": "Impreza",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trailblazer LT",
       "vin": "KL79MRSL1TB008198",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/ed865881f449.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/chevrolet/trailblazer/trail/bc/71181660/?sale_class=used",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/chevrolet/trailblazer/trail/bc/71181660/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -386,14 +452,17 @@
       "odometer_km": 6055,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trailblazer LT",
-      "condition": "used"
+      "model": "Trailblazer",
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFC5T8279603",
       "stock": "4519",
       "color": "Brown",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/faf3213229e1.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/crosstrek/trail/bc/71203159/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/crosstrek/trail/bc/71203159/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -403,14 +472,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek ONYX",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFC7T8289565",
       "stock": "4524",
       "color": "Blue",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/477b1e9938cc.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/crosstrek/trail/bc/71272310/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/crosstrek/trail/bc/71272310/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -420,14 +492,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek ONYX",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFC4T8289488",
       "stock": "4523",
       "color": "Grey",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/92fc787ed033.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/crosstrek/trail/bc/71272311/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/crosstrek/trail/bc/71272311/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -437,14 +512,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek ONYX",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek LIMITED",
       "vin": "JF2GUHNC1T8289563",
       "stock": "4522",
       "color": "Silver",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/8a19540616df.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/crosstrek/trail/bc/71272312/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/crosstrek/trail/bc/71272312/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -454,14 +532,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek LIMITED",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFC3T8289630",
       "stock": "4525",
       "color": "White",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/3cc016d14548.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/crosstrek/trail/bc/71272313/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/crosstrek/trail/bc/71272313/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -471,14 +552,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek ONYX",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek LIMITED",
       "vin": "JF2GUHNC3T8288768",
       "stock": "4527",
       "color": "Brown",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/f2bf8b2f58cf.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/crosstrek/trail/bc/71383686/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/crosstrek/trail/bc/71383686/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -488,14 +572,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek LIMITED",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC4TH456787",
       "stock": "4402",
       "color": "Grey",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/1fbfcb7b2e83.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/68970521/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/68970521/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -505,14 +592,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT",
       "vin": "JF2SLDHCXTH458867",
       "stock": "4428",
       "color": "Grey",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/c8e00cad4ae2.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/69264496/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/69264496/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -522,14 +612,17 @@
       "odometer_km": 6271,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER",
       "vin": "JF2SLDTC2TH462998",
       "stock": "4484",
       "color": "Green",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/4d8edf55f765.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70436560/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70436560/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -539,14 +632,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester PREMIER",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER",
       "vin": "JF2SLDTCXTH464871",
       "stock": "4491",
       "color": "Grey",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/ad9a3e052d18.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70501230/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70501230/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -556,14 +652,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester PREMIER",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC3TH464654",
       "stock": "4489",
       "color": "Grey",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/6b2d2a7f16dc.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70501232/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70501232/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -573,14 +672,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC6TH465636",
       "stock": "4490",
       "color": "Blue",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/98cceee741b4.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70501233/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70501233/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -590,14 +692,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD7TH464677",
       "stock": "4493",
       "color": "Blue",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/199a790b9073.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70555114/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70555114/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -607,14 +712,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER",
       "vin": "JF2SLDTC7TH468215",
       "stock": "4508",
       "color": "Black",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/c8bb87758884.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70815046/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70815046/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -624,14 +732,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester PREMIER",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC5TH468656",
       "stock": "4507",
       "color": "Blue",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/a8a086eff7c1.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70815049/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70815049/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -641,14 +752,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE",
       "vin": "JF2SLDAC5TH468958",
       "stock": "4512",
       "color": "Grey",
+      "trim": "CONVENIENCE",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/87da8ecce77e.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70944414/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/70944414/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -658,14 +772,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester CONVENIENCE",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING",
       "vin": "JF2SLDDC1TH472582",
       "stock": "4516",
       "color": "Blue",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/7456880b7b8a.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/71180306/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/71180306/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -675,14 +792,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING",
       "vin": "JF2SLDDC0TH475022",
       "stock": "4526",
       "color": "Blue",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/a73288ed1963.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/71383685/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/forester/trail/bc/71383685/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -692,14 +812,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback WILDERNESS",
       "vin": "JF2BURLD1TY576848",
       "stock": "4529",
       "color": "Black",
+      "trim": "WILDERNESS",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/0dbe4a4a21ee.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/outback/trail/bc/71395103/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/outback/trail/bc/71395103/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -709,22 +832,27 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback WILDERNESS",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT",
       "vin": "JF2BURHDXTY577019",
       "stock": "4528",
       "color": "Green",
+      "trim": "LIMITED XT",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/a1a6c7724679.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/outback/trail/bc/71395104/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/outback/trail/bc/71395104/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:25:12",
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback LIMITED XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Uncharted FWD",
@@ -741,7 +869,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Uncharted FWD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Uncharted FWD LR",
@@ -758,13 +888,16 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Uncharted FWD LR",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX SPORT",
       "vin": "JF1VBAH68T9800534",
       "stock": "4435",
       "color": "Grey",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/aeb2728036ed.html",
       "source_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/wrx/trail/bc/69482185/?sale_class=new",
       "dealer_url": "https://www.integritysubaru.ca/vehicles/2026/subaru/wrx/trail/bc/69482185/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -774,8 +907,10 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX SPORT",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     }
   ]
 }
