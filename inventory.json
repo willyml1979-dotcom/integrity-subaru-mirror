@@ -1,6 +1,6 @@
 {
   "dealership": "Integrity Subaru",
-  "generated_at": "2026-10-25T18:41:08",
+  "generated_at": "2026-10-25T18:48:27",
   "vehicle_count": 72,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -276,7 +276,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "new",
-      "price": 37928.0,
+      "price": 37927.0,
       "price_currency": "CAD"
     },
     {
@@ -287,7 +287,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "new",
-      "price": 37928.0,
+      "price": 37927.0,
       "price_currency": "CAD"
     },
     {
@@ -302,14 +302,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Touring",
+      "name": "2026 Subaru Crosstrek TOURING WITH EYESIGHT®",
       "vin": "JF2GUHDC8T8279842",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/7bb4b3c74a0c.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "new",
-      "price": 36428.0,
+      "price": 36427.0,
       "price_currency": "CAD"
     },
     {
@@ -485,7 +485,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 45528.0,
+      "price": 45527.0,
       "price_currency": "CAD"
     },
     {
@@ -496,7 +496,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 50028.0,
+      "price": 50027.0,
       "price_currency": "CAD"
     },
     {
@@ -507,7 +507,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 43528.0,
+      "price": 43527.0,
       "price_currency": "CAD"
     },
     {
@@ -518,7 +518,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 47528.0,
+      "price": 47527.0,
       "price_currency": "CAD"
     },
     {
@@ -529,7 +529,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 41028.0,
+      "price": 41027.0,
       "price_currency": "CAD"
     },
     {
@@ -540,7 +540,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 45528.0,
+      "price": 45527.0,
       "price_currency": "CAD"
     },
     {
@@ -551,7 +551,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 48528.0,
+      "price": 47527.0,
       "price_currency": "CAD"
     },
     {
@@ -562,7 +562,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 51528.0,
+      "price": 50027.0,
       "price_currency": "CAD"
     },
     {
@@ -661,7 +661,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 52028.0,
+      "price": 52027.0,
       "price_currency": "CAD"
     },
     {
@@ -758,7 +758,7 @@
       "make": "Subaru",
       "model": "WRX",
       "condition": "new",
-      "price": 40728.0,
+      "price": 40727.0,
       "price_currency": "CAD"
     },
     {
