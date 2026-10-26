@@ -1,6 +1,6 @@
 {
   "dealership": "Integrity Subaru",
-  "generated_at": "2026-10-26T03:53:48",
+  "generated_at": "2026-10-26T04:00:10",
   "vehicle_count": 72,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -254,7 +254,7 @@
       "make": "Subaru",
       "model": "Crosstrek Hybrid",
       "condition": "new",
-      "price": 43421.0,
+      "price": 42921.0,
       "price_currency": "CAD"
     },
     {
@@ -584,7 +584,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 48528.0,
+      "price": 47528.0,
       "price_currency": "CAD"
     },
     {
@@ -595,7 +595,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 37027.0,
+      "price": 36027.0,
       "price_currency": "CAD"
     },
     {
@@ -606,7 +606,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 46527.0,
+      "price": 45527.0,
       "price_currency": "CAD"
     },
     {
@@ -617,7 +617,7 @@
       "make": "Subaru",
       "model": "Forester Hybrid",
       "condition": "new",
-      "price": 51527.0,
+      "price": 50027.0,
       "price_currency": "CAD"
     },
     {
@@ -628,7 +628,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 46527.0,
+      "price": 45527.0,
       "price_currency": "CAD"
     },
     {
@@ -639,7 +639,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 42027.0,
+      "price": 41027.0,
       "price_currency": "CAD"
     },
     {
@@ -650,7 +650,7 @@
       "make": "Subaru",
       "model": "Forester Hybrid",
       "condition": "new",
-      "price": 51527.0,
+      "price": 50027.0,
       "price_currency": "CAD"
     },
     {
@@ -672,7 +672,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 54027.0,
+      "price": 52277.0,
       "price_currency": "CAD"
     },
     {
@@ -683,7 +683,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 54027.0,
+      "price": 52277.0,
       "price_currency": "CAD"
     },
     {
