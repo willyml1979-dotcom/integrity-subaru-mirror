@@ -1,7 +1,7 @@
 {
   "dealership": "Integrity Subaru",
-  "generated_at": "2026-10-26T04:00:10",
-  "vehicle_count": 72,
+  "generated_at": "2026-11-16T21:40:51",
+  "vehicle_count": 77,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -14,6 +14,28 @@
       "model": "Mazda3",
       "condition": "used",
       "price": 8988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Subaru Forester 2.5i",
+      "vin": "JF2SJCCC2FH495990",
+      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/31b8d14a693e.html",
+      "year": 2015,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 13989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Toyota Corolla LE",
+      "vin": "2T1BURHE0FC428828",
+      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/c27b1378ebe0.html",
+      "year": 2015,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "used",
+      "price": 14888.0,
       "price_currency": "CAD"
     },
     {
@@ -46,6 +68,17 @@
       "condition": "used"
     },
     {
+      "name": "2017 Subaru Forester 2.0XT Limited Package",
+      "vin": "JF2SJHUC4HH453755",
+      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/57d1b8f8da80.html",
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 19888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Jeep Wrangler JK Unlimited Unlimited Sahara",
       "vin": "1C4BJWEG1JL824619",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/88ea5e559182.html",
@@ -55,15 +88,6 @@
       "condition": "used",
       "price": 23898.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Subaru Crosstrek Sport",
-      "vin": "JF2GTAEC3JH206173",
-      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/4e9808a7f8cd.html",
-      "year": 2018,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used"
     },
     {
       "name": "2019 Buick Envision Essence",
@@ -108,6 +132,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Subaru Crosstrek Touring",
+      "vin": "JF2GTAPC5M8350583",
+      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/5245a77b0838.html",
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "used",
+      "price": 23888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Ford E-450 Super Duty ",
       "vin": "1F66F5DN9N0A11648",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/517798b2c9eb.html",
@@ -116,6 +151,17 @@
       "model": "E-450 Super Duty",
       "condition": "used",
       "price": 139898.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Subaru Outback Limited XT",
+      "vin": "4S4BTHNDXN3243598",
+      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/5901d6c9b497.html",
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "used",
+      "price": 33898.0,
       "price_currency": "CAD"
     },
     {
@@ -128,15 +174,6 @@
       "condition": "used",
       "price": 39898.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Subaru Forester Wilderness",
-      "vin": "JF2SKELC7PH441921",
-      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/8d37b695dfca.html",
-      "year": 2023,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used"
     },
     {
       "name": "2024 Subaru Crosstrek Onyx",
@@ -159,6 +196,15 @@
       "condition": "used",
       "price": 33994.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Subaru Crosstrek Limited",
+      "vin": "JF2GUHNC4RH224621",
+      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/151899a47876.html",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "used"
     },
     {
       "name": "2024 Subaru Outback Premier",
@@ -189,6 +235,17 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Outback",
+      "condition": "used",
+      "price": 32888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Subaru Forester Convenience",
+      "vin": "JF2SLDAC8SH447133",
+      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/37ee27205a7c.html",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
       "condition": "used"
     },
     {
@@ -214,17 +271,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Subaru WRX tS",
-      "vin": "JF1VBAZ69S9800393",
-      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/49714fe1cf00.html",
-      "year": 2025,
-      "make": "Subaru",
-      "model": "WRX",
-      "condition": "used",
-      "price": 43998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Trailblazer LT",
       "vin": "KL79MRSL1TB008198",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/ed865881f449.html",
@@ -234,6 +280,15 @@
       "condition": "used",
       "price": 29989.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru WRX Limited Edition",
+      "vin": "JF1VBAZ63T9803145",
+      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/used/0214835ef9de.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "WRX",
+      "condition": "used"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid E-BOXER HYBRID LIMITED",
