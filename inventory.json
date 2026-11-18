@@ -1,7 +1,7 @@
 {
   "dealership": "Integrity Subaru",
-  "generated_at": "2026-11-17T19:38:13",
-  "vehicle_count": 88,
+  "generated_at": "2026-11-17T19:48:24",
+  "vehicle_count": 89,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -514,7 +514,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 45527.0,
+      "price": 44527.0,
       "price_currency": "CAD"
     },
     {
@@ -536,7 +536,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 43527.0,
+      "price": 43027.0,
       "price_currency": "CAD"
     },
     {
@@ -547,7 +547,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 47527.0,
+      "price": 47027.0,
       "price_currency": "CAD"
     },
     {
@@ -558,7 +558,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 41027.0,
+      "price": 40527.0,
       "price_currency": "CAD"
     },
     {
@@ -569,7 +569,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 45527.0,
+      "price": 44527.0,
       "price_currency": "CAD"
     },
     {
@@ -580,7 +580,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 47527.0,
+      "price": 47027.0,
       "price_currency": "CAD"
     },
     {
@@ -692,15 +692,6 @@
       "condition": "new",
       "price": 51527.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester CONVENIENCE",
-      "vin": "JF2SLDAC5TH480432",
-      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/db1eecb8a5fa.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new"
     },
     {
       "name": "2026 Subaru Forester SPORT",
@@ -906,6 +897,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Subaru Outback TOURING",
+      "vin": "JF2BUPCD5TY615302",
+      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/b06159122b01.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 43727.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Subaru Trailseeker LIMITED",
       "vin": "JTMBGAHC5TY008609",
       "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/338ac6df9fd5.html",
@@ -937,6 +939,15 @@
       "condition": "new",
       "price": 51027.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek TOURING",
+      "vin": "JF2GUHDC9V8200259",
+      "url": "https://willyml1979-dotcom.github.io/integrity-subaru-mirror/new/bce04ea50a69.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new"
     },
     {
       "name": "2027 Subaru Uncharted SPORT",
